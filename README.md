@@ -13,12 +13,12 @@ If you choose tree it requires two parameters
 1. tree
 2. "path"
 
-eg. trippy tree "C:/temp/temp"
+eg. `trippy tree "C:/temp/temp"`
 It will give you a tree structure of your directory
 
 If you choose help it requires one parameters 
 1. help
 
-eg. trippy help
+eg. `trippy help`
 It will assist you how to use file organizer
 
