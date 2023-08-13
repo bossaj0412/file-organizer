@@ -6,7 +6,7 @@ If you choose organize it requires two parameters
 1. organize
 2. "path"
 
-eg. trippy organize "C:/temp/temp"
+eg. `trippy organize "C:/temp/temp"`
 (trippy because of i named my bin with trippy)
 
 If you choose tree it requires two parameters 
